@@ -1,0 +1,6 @@
+@GameRestfulAPI_HostAddress = http://localhost:5214
+
+GET {{GameRestfulAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
